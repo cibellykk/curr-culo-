@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Currículo de Cibelly Aparecida De Souza Kaiser</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+    }
+    .container {
+      width: 80%;
+      margin: 40px auto;
+      padding: 20px;
+      border: 1px solid #ddd;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Currículo de Cibelly Aparecida De Souza Kaiser</h1>
+    <h2>Contato:</h2>
+    <p>Telefone: 41 998258694</p>
+    <p>E-mail: cibellykaiser4@gmail.com</p>
+    <h2>Objetivo Profissional:</h2>
+    <p
